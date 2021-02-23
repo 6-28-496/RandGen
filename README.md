@@ -1,2 +1,2 @@
 # RandGen
-A family of C++ programs for creating musical material for clarinet and flute
+I wrote these programs for a final year composition assignment. The programs create some pitch and rhythmic elements according to the parameters in the code, pairing certain registers in the ranges for flute and clarinet. I added articulation and phrasing to the generated material. An electronic mock-up of the result can be found <a href='https://soundcloud.com/lindenbaum/randgen'>here</a>.
